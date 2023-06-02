@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="421300a9-c725-496e-90b4-11cfcd81faf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Patterns_Eleven/HollowRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns_Eleven/InvertedAndHalfRotatedPyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +39,22 @@
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HollowRectangle">
+  <component name="RunManager" selected="Application.InvertedAndHalfRotatedPyramid">
     <configuration name="HollowRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Patterns_Eleven.HollowRectangle" />
+      <module name="learningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Patterns_Eleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvertedAndHalfRotatedPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns_Eleven.InvertedAndHalfRotatedPyramid" />
       <module name="learningJava" />
       <extension name="coverage">
         <pattern>
@@ -62,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InvertedAndHalfRotatedPyramid" />
         <item itemvalue="Application.HollowRectangle" />
         <item itemvalue="Application.Main" />
       </list>
@@ -81,11 +95,23 @@
       <workItem from="1685554357714" duration="1277000" />
       <workItem from="1685556152099" duration="145000" />
       <workItem from="1685633872811" duration="8530000" />
-      <workItem from="1685717607137" duration="2907000" />
+      <workItem from="1685717607137" duration="3541000" />
     </task>
+    <task id="LOCAL-00001" summary="HollowRectangle">
+      <created>1685722268535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685722268535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HollowRectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="HollowRectangle" />
   </component>
 </project>
