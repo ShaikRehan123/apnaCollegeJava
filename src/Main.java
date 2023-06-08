@@ -1,17 +1,15 @@
-import java.util.Scanner;
-
 public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("How much length of characters you want: ");
-        int n = sc.nextInt();
-        char alphabet = 'A';
-        for(int i =1;i<=n;i++){
-            for(int j=1;j<=i;j++){
-                System.out.print(alphabet + " ");
-                alphabet++;
+    public static int getLargest(int[] numbers){
+        int largest = Integer.MIN_VALUE;
+        for (int i=0;i<numbers.length;i++){
+            if(numbers[i] > largest){
+                largest = numbers[i];
             }
-            System.out.println();
         }
+        return largest;
     }
+    public static void main (String[] args){
+        int numbers[] = {28 , 19, 90, 100, 2113};
+        System.out.println(getLargest(numbers ));
+     }
 }
