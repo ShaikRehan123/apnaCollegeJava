@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="421300a9-c725-496e-90b4-11cfcd81faf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArraySumBruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArraySumKadanesAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArraySumPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/PairsInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TrappingRainWaterSlowWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TrappingRaintWaterFastWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Arrays/FirstQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Arrays/FourthQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Arrays/SecondQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Arrays/ThirdQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDArrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDArrays/SpiralMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learningJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +88,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HollowRectangle" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.InvertedAndHalfRotatedPyramid" />
-        <item itemvalue="Application.HollowRectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +118,10 @@
       <workItem from="1686072968656" duration="6262000" />
       <workItem from="1686156418223" duration="691000" />
       <workItem from="1686234607581" duration="235000" />
-      <workItem from="1686234941504" duration="4034000" />
+      <workItem from="1686234941504" duration="6927000" />
+      <workItem from="1686316035542" duration="3516000" />
+      <workItem from="1686332900385" duration="3345000" />
+      <workItem from="1686376670633" duration="4506000" />
     </task>
     <task id="LOCAL-00001" summary="HollowRectangle">
       <created>1685722268535</created>
@@ -154,7 +156,17 @@
           <line>9</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting/SelectionSort.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learningJava$BubbleSort.ic" NAME="BubbleSort Coverage Results" MODIFIED="1686319798077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Sorting.*</FILTER>
+    </SUITE>
   </component>
 </project>
